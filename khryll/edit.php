@@ -1,7 +1,7 @@
 <?php
 // Database connection
 $host = "localhost";
-$dbname = "dog_system";
+$dbname = "dogs_db";
 $username = "root";
 $password = "";
 
