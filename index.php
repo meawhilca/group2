@@ -1,4 +1,3 @@
-# index.php – Kinds of Dogs
 
 ```php
 <!DOCTYPE html>
