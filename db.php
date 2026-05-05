@@ -7,7 +7,8 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "your_database"; // change this
+$database = "dogs_db
+"; // change this
 
 // Create connection
 $conn = new mysqli($host, $username, $password, $database);
